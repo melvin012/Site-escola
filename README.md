@@ -15,7 +15,7 @@
     <li>Escola</li>
     </ul>
     </header
-  body {
+ body {
     background-color: #383D58;
-    color white;
-    }
+    color: white;
+}
