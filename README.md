@@ -1,5 +1,4 @@
 
-# Site-escola
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,5 +14,9 @@
     <li>Estudante</li>
     <li>Escola</li>
     </ul>
-    </header>
+    </header
+    body {
+    background-color: #383D58;
+    color: white;
+    }
 <link rel=”stylesheet” href=”style.css”>
