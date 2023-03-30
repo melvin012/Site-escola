@@ -18,5 +18,4 @@
   body {
     background-color: #383D58;
     color white;
-    
     }
