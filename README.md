@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <reader>
-        <hl>vai ser uma imagem aqui</hl>
+        <hl>Vai ser uma imagem aqui</hl>
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
